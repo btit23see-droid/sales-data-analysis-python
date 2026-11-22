@@ -83,6 +83,12 @@ The project includes the following visualizations:
 7. Sales by Shipping Mode
 8. Sales by Customer Segment
 9. Correlation Heatmap
+10.  Sales Histogram
+11. Sales Density Plot
+12. Sales vs Profit Scatter Plot
+13. Sales Pair Plot
+
+All visualizations are saved in the `Visualizations` folder.
 
 ## Project Structure
 
