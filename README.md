@@ -35,6 +35,20 @@ The analysis was performed independently using Python libraries to extract meani
 - Seaborn
 - Jupyter Notebook
 
+ ## Setup Instructions
+
+1. Clone this repository.
+2. Install the required Python libraries:
+
+   pip install pandas numpy matplotlib seaborn jupyter
+
+3. Open Jupyter Notebook:
+
+   jupyter notebook
+
+4. Open `Notebook/Sales_Data_Analysis.ipynb`.
+5. Run all cells to reproduce the analysis.
+
 ## Project Workflow
 
 1. Data Loading
