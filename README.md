@@ -110,7 +110,8 @@ All visualizations are saved in the `Visualizations` folder.
 Sales-Data-Analysis/
 │
 ├── Dataset/
-│   └── SampleSuperstore.csv
+│   ├── SampleSuperstore.csv
+│   └── Cleaned_SampleSuperstore.csv
 │
 ├── Notebook/
 │   └── Sales_Data_Analysis.ipynb
@@ -124,7 +125,11 @@ Sales-Data-Analysis/
 │   ├── Sub_Category_Profit.png
 │   ├── Ship_Mode_Sales.png
 │   ├── Segment_Sales.png
-│   └── Correlation_Heatmap.png
+│   ├── Correlation_Heatmap.png
+│   ├── Sales_Histogram.png
+│   ├── Sales_Density_Plot.png
+│   ├── Sales_vs_Profit_Scatter.png
+│   └── Sales_Pair_Plot.png
 │
 └── README.md
 ```
